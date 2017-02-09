@@ -1,1 +1,4 @@
 This is also a file.
+this is also a line of code... 
+def all:
+	print hello all!
